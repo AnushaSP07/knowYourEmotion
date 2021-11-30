@@ -1,0 +1,73 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: #ada2a5;
+  margin: 0px;
+}
+
+.nav {
+  background-color: #f16c8e;
+  padding: 1rem;
+  font-family: "Style Script", cursive;
+  border-bottom-right-radius: 2rem;
+}
+
+.about {
+  padding-top: 2rem;
+  font-size: large;
+  text-align: center;
+  margin: auto;
+  font-weight: 500;
+  max-width: 500px;
+}
+
+#emo-input {
+  padding: 1rem;
+  width: 50%;
+  margin: auto;
+  font-size: large;
+  margin-top: 2rem;
+  border: solid #ef487d;
+  border-bottom-left-radius: 1rem;
+  border-bottom-right-radius: 1rem;
+  background-color: #ada2a5;
+}
+
+.display-flex {
+  display: flex;
+  flex-wrap: wrap;
+  width: 50%;
+  margin: auto;
+  padding-bottom: 5rem;
+}
+
+.flex-items {
+  justify-content: center;
+  font-size: xx-large;
+  padding: 0.5rem;
+  cursor: pointer;
+}
+
+.hero-img {
+  margin-top: 3rem;
+}
+
+.hero {
+  width: 650px;
+}
+
+.emojisweknow {
+  font-family: "Style Script", cursive;
+}
+
+.footer {
+  background-color: #f16c8e;
+  padding: 2rem;
+  font-size: large;
+  font-weight: bold;
+  border-top-left-radius: 1rem;
+  border-top-right-radius: 1rem;
+}
